@@ -1,5 +1,9 @@
 package main
 
-func main() {
+import (
+	"main/singlefile"
+)
 
+func main() {
+	singlefile.RunDemo()
 }
